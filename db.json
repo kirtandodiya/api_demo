@@ -8,15 +8,7 @@
       "last_name": "User",
       "gender": "Male",
       "hobbies": "Reading",
-      "dob": "1990-01-01",
-      "address": {
-        "address_1": "Test Street",
-        "address_2": "Test Road",
-        "city": "Ahmedabad",
-        "state": "Gujarat",
-        "country": "India",
-        "zipcode": "380015"
-      }
+      "dob": "1990-01-01"
     },
     {
       "id": 2,
@@ -26,15 +18,7 @@
       "last_name": "User",
       "gender": "Male",
       "hobbies": "Reading",
-      "dob": "1990-01-01",
-      "address": {
-        "address_1": "New Street",
-        "address_2": "New Road",
-        "city": "Ahmedabad",
-        "state": "Gujarat",
-        "country": "India",
-        "zipcode": "380015"
-      }
+      "dob": "1990-01-01"
     }
   ]
 }
