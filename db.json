@@ -1,42 +1,39 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "test.user",
-      "email": "test.user@mail.com",
-      "first_name": "Test",
-      "last_name": "User",
-      "gender": "Male",
-      "hobbies": "Reading",
-      "dob": "1990-01-01",
-      "address": {
-        "address_1": "Test Street",
-        "address_2": "Test Road",
-        "city": "Ahmedabad",
-        "state": "Gujarat",
-        "country": "India",
-        "zipcode": "380015"
-      },
-      "phone": "9876543210"
-    },
-    {
-      "id": 2,
-      "username": "test.newuser",
-      "email": "test.newuser@mail.com",
-      "first_name": "Test",
-      "last_name": "User",
-      "gender": "Male",
-      "hobbies": "Reading",
-      "dob": "1990-01-01",
-      "address": {
-        "address_1": "Test Street",
-        "address_2": "Test Road",
-        "city": "Ahmedabad",
-        "state": "Gujarat",
-        "country": "India",
-        "zipcode": "380015"
-      },
-      "phone": "9876543210"
-    }
-  ]
+    "users": [{
+        "id": 1,
+        "username": "test.user",
+        "email": "test.user@mail.com",
+        "first_name": "Test",
+        "last_name": "User",
+        "gender": "Male",
+        "hobbies": "Reading",
+        "dob": "1990-01-01",
+        "phone": "9876543210",
+        "address": {
+            "address_1": "Test Street",
+            "address_2": "Test Road",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "zipcode": "380015"
+        }
+    }, {
+        "id": 2,
+        "username": "test.newuser",
+        "email": "test.newuser@mail.com",
+        "first_name": "Test",
+        "last_name": "User",
+        "gender": "Male",
+        "hobbies": "Reading",
+        "dob": "1990-01-01",
+        "phone": "9876543210",
+        "address": {
+            "address_1": "Test Street",
+            "address_2": "Test Road",
+            "city": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India",
+            "zipcode": "380015"
+        }
+    }]
 }
